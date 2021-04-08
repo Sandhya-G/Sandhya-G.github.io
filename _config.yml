@@ -1,0 +1,22 @@
+title:              Blog
+email:              sandhya.g1@yahoo.com
+description:        A Blog about security 
+author:             Sandhya
+baseurl:            ""
+url:                "https://sandhya-g.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    Sandhya-G
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  
