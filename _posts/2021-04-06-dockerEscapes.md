@@ -2,10 +2,10 @@
 layout: post
 title: "Breaking out of Docker"
 subtitle: "Docker Escapes"
-date: 2021-04-05 20:15:13 -0400
+date: 2021-06-06 20:15:13 -0400
 ---
 
-# Breaking out of Docker
+ Breaking out of Docker
 
 
 
